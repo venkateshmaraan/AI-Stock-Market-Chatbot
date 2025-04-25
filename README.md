@@ -1,1 +1,1 @@
-# AII-Stock-Market-Chatbot
+# AI-Stock-Market-Chatbot
